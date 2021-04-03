@@ -1,6 +1,7 @@
 # NYUAD Swim Challenge Leaderboard
 
 ## Team Ranking
+
 | team    |   distance |
 |:--------|-----------:|
 | bananas |       2400 |
@@ -9,6 +10,7 @@
 | rabbit  |       2810 |
 
 ## Individual Ranking
+
 |    |   distance | first_name                |
 |---:|-----------:|:--------------------------|
 |  0 |       2010 | name10                    |
@@ -28,6 +30,7 @@
 | 14 |        200 | name2                     |
 
 ## Teams registered
+
 |         |      |      |      |
 |:--------|:------|:------|:-------|
 | pooh    | name1 | name5 | name9  |
