@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# NYUAD Swim Challenge Leaderboard
 
-You can use the [editor on GitHub](https://github.com/ivanadr/ivanadr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Team Ranking
+| team    |   distance |
+|:--------|-----------:|
+| bananas |       2400 |
+| piglet  |       2100 |
+| pooh    |       2120 |
+| rabbit  |       2810 |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Individual Ranking
+|    |   distance | first_name                |
+|---:|-----------:|:--------------------------|
+|  0 |       2010 | name10                    |
+|  1 |       1500 | name15                    |
+|  2 |       1400 | name14                    |
+|  3 |       1300 | name13                    |
+|  4 |       1200 | name12                    |
+|  5 |       1100 | Brave Turtle 9            |
+|  6 |       1010 | name5                     |
+|  7 |        900 | name9                     |
+|  8 |        800 | Doplhin on a Study Away 9 |
+|  9 |        700 | name7                     |
+| 10 |        600 | Whale with a PhD 9        |
+| 11 |        400 | name4                     |
+| 12 |        300 | name3                     |
+| 13 |        210 | Whale with a PhD 9        |
+| 14 |        200 | name2                     |
 
-### Markdown
+## Teams registered
+|         |      |      |      |
+|:--------|:------|:------|:-------|
+| pooh    | name1 | name5 | name9  |
+| rabbit  | name2 | name6 | name10 |
+| piglet  | name3 | name7 | name11 |
+| bananas | name4 | name8 | name12 |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivanadr/ivanadr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
