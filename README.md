@@ -1,4 +1,5 @@
 # NYUAD Swim Challenge Leaderboard
+April 5 - 11 
 
 ## Team Ranking
 
