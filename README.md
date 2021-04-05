@@ -2,7 +2,13 @@
 April 5 - 11  
 
 Updated: 
-05/04/2021 18:54
+05/04/2021 11PM  
+
+Distance swam today: 40 kilometers  
+Distance swam in total: 40 kilometers  
+
+Number of swimmers today: 20  
+Participants in total: 20  
 
 ## Team Ranking  
 | team    |   distance |
