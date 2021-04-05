@@ -6,7 +6,7 @@ Leaderboard updated 5. April 11AM
 
 | team    |   distance |
 |:--------|-----------:|
-| MVM     |       2800 |
+| MVM     |       4800 |
 | Bananas |       1900 |
 
 
@@ -15,8 +15,10 @@ Leaderboard updated 5. April 11AM
 |    |   distance | first_name     |
 |---:|-----------:|:---------------|
 |  1 |       2800 | Vale           |
-|  2 |       2050 | Jeremy         |
-|  3 |       1900 | Vegan Shark 25 |
+|  2 |       2400 | Hannah         |
+|  3 |       2050 | Jeremy         |
+|  4 |       2000 | Marko          |
+|  5 |       1900 | Vegan Shark 25 |
 
 
 ## Teams registered
