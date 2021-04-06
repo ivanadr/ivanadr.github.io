@@ -11,6 +11,7 @@ Number of swimmers today: 21
 Participants in total: 32  
 
 ## Team Ranking  
+if you win team prize, you cannot win individual prize
 | team                                           |   distance |
 |:-----------------------------------------------|-----------:|
 | MVM                                            |      19800 |
