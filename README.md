@@ -2,10 +2,10 @@
 April 5 - 11  
 
 Updated: 
-11/04/2021 11:10
+11/04/2021 11:16
 
 Distance swam today: 10 kilometers  
-Distance swam in total: 288 kilometers  
+Distance swam in total: 289 kilometers  
 
 Number of swimmers today: 5  
 Participants in total: 39  
@@ -16,7 +16,7 @@ if you win team prize, you cannot win individual prize
 |:-----------------------------------------------|-----------:|
 | MVM                                            |      51700 |
 | Maya and the Colombians                        |      38200 |
-| Who Took All The 7 AM sessions?                |      33050 |
+| Who Took All The 7 AM sessions?                |      34450 |
 | Macrisgi                                       |      31700 |
 | Bananas                                        |      30550 |
 | Chrząszcze z Chrzęszyżeworzyc, powiat Łękołowy |      11300 |
@@ -37,12 +37,12 @@ if you win team prize, you cannot win individual prize
 | 11 |      10000 | Falcon with Fins 20             |                4 | 05-08-09-10-                |
 | 12 |       9400 | Shubhan B                       |                6 | 05-06-06-07-07-08-          |
 | 13 |       7700 | Nemo looking for their major 10 |                4 | 06-08-09-10-                |
-| 14 |       7500 | Balázs S                        |                4 | 05-06-07-08-                |
-| 15 |       6800 | Cristian G                      |                4 | 05-06-08-09-                |
-| 16 |       6800 | Daniel D                        |                3 | 08-09-10-                   |
-| 17 |       6400 | Vegan Shark 9                   |                4 | 05-08-09-10-                |
-| 18 |       6300 | Little Penguin 13               |                3 | 06-07-09-                   |
-| 19 |       6250 | Sebastian K                     |                5 | 05-06-07-08-09-             |
+| 14 |       7650 | Sebastian K                     |                6 | 05-06-07-08-09-10-          |
+| 15 |       7500 | Balázs S                        |                4 | 05-06-07-08-                |
+| 16 |       6800 | Cristian G                      |                4 | 05-06-08-09-                |
+| 17 |       6800 | Daniel D                        |                3 | 08-09-10-                   |
+| 18 |       6400 | Vegan Shark 9                   |                4 | 05-08-09-10-                |
+| 19 |       6300 | Little Penguin 13               |                3 | 06-07-09-                   |
 | 20 |       6200 | Doplhin on a Study Away 4       |                4 | 05-06-10-11-                |
 | 21 |       5900 | Everett  P                      |                2 | 08-10-                      |
 | 22 |       5400 | PJ H                            |                3 | 06-08-11-                   |
