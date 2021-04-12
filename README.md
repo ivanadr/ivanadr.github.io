@@ -2,7 +2,7 @@
 April 5 - 11, 2021  
 
 Updated: 
-12/04/2021 13:01
+12/04/2021 13:10
 
 ## Distance swam in total: 349 kilometers 
 ![Comparison with Swim challenge 1](swim-challenge-1-2-comparison.png)
