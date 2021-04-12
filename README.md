@@ -4,7 +4,8 @@ April 5 - 11, 2021
 Updated: 
 12/04/2021 13:01
 
-## Distance swam in total: 349 kilometers  
+## Distance swam in total: 349 kilometers 
+![Cumuulative distance ](cum_distance_by_day.png)
 
 Participants in total: 39  
 
@@ -19,6 +20,9 @@ if you win team prize, you cannot win individual prize
 | Who Took All The 7 AM sessions?                |      39250 |
 | Chrząszcze z Chrzęszyżeworzyc, powiat Łękołowy |      11300 |
 | Swimming chonks                                |       8700 |
+
+![Distance by teams](teams-graph.png)  
+
 ## Individual Ranking  
 |    |   distance | first_name                      |   total_sessions | swim_session_dates                |
 |---:|-----------:|:--------------------------------|-----------------:|:----------------------------------|
