@@ -5,9 +5,11 @@ Updated:
 12/04/2021 13:01
 
 ## Distance swam in total: 349 kilometers 
-![Cumuulative distance ](cum_distance_by_day.png)
+![Comparison with Swim challenge 1](swim-challenge-1-2-comparison.png)
+![Cumuulative distance ](cum_distance_by_day.png)  
 
 Participants in total: 39  
+
 
 ## Team Ranking  
 if you win team prize, you cannot win individual prize
