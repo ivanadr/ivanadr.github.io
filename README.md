@@ -12,7 +12,8 @@ Participants in total: 39
 
 
 ## Team Ranking  
-if you win team prize, you cannot win individual prize
+
+
 | team                                           |   distance |
 |:-----------------------------------------------|-----------:|
 | MVM                                            |      56100 |
@@ -22,6 +23,8 @@ if you win team prize, you cannot win individual prize
 | Who Took All The 7 AM sessions?                |      39250 |
 | Chrząszcze z Chrzęszyżeworzyc, powiat Łękołowy |      11300 |
 | Swimming chonks                                |       8700 |
+
+
 
 ![Distance by teams](teams-graph.png)  
 
