@@ -1,1 +1,12 @@
-------@import "{{ site.theme }}";a:hover, a:focus {  color:#75583E;  font-weight: bold;}a {  color:#372917;  text-decoration:none;}
+---
+---
+
+@import "{{ site.theme }}";
+a:hover, a:focus {
+  color: #75583E;
+  font-weight: bold;
+}
+a {
+  color: #372917;
+  text-decoration: none;
+}
