@@ -6,36 +6,19 @@
 - In addition, I have a research background in sustainability, inequality, and gender.
 - My credentials include working in the USA, Europe, Asia, Africa, the Middle East, and South America.
 
-## Education and Research
-### B.A. New York University
-- Economics with two additional specializations (minors) in Computer Science and Applied Mathematics.
-- Grade: 3.95/4.00, magna cum laude (top 15%), New York University Honors Scholar.
-- Activities and societies: Women in Mathematics and Science (WeSTEM); Swim Team Captain.
+## Values
 
-### MSc Barcelona School of Economics
-- Economics and Finance.
-- Grade: 8.6/10; rank: top 16%.
-- Electives: Climate Change.
-
-### Economics Research Fellowship at New York University Abu Dhabi
-- Awarded a prestigious research grant to further develop my thesis.
-
-## Workplace Values
-
-My ideal workplace includes:
+My ideal team includes:
 - Commitment to deep work and focus.
 - Shared team vision and opportunities to learn from and about my colleagues.
 - A strong belief in mentorship (as both a mentee and mentor).
+- Purpose, initiative, respect, excellence, integrity
 
 ## Personal Interests
 
 I dedicate my free time to:
 - Community building.
 - Sports, including floorball, swimming, and cycling.
-
-# Contact
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivana.drabova@nyu.edu)](mailto:ivana.drabova@nyu.edu)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivana-drabova/)](https://www.linkedin.com/in/ivana-drabova/)
 
 ---
 ## Call for Mentorship
@@ -66,3 +49,7 @@ In the pre-social media era, professors often had personal websites with links t
 - I once organized a large mango fruit order from the market because the monopoly seller on campus offered low-quality fruit. A friend once remarked, "I can't believe you made a campaign and website just for mangoes." Actually, in the true computer science spirit, I also built a data system for orders in Python. Whatever I do, I approach it with drive and passion.
 - I recovered a website for my organization, Women in Science, Computer Science, and Math. I value continuity and excel at creating structure. After three years in the organization, I wanted to make a meaningful contribution and give back. Through this project, my colleague became one of my best friends. We shared a vision, pushed each other, and made it happen. Thank you, Nouf!
 - See other, more serious projects on my [GitHub](https://github.com/ivanadr)
+
+# Contact
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivana.drabova@nyu.edu)](mailto:ivana.drabova@nyu.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivana-drabova/)](https://www.linkedin.com/in/ivana-drabova/)
