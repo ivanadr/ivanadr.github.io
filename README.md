@@ -5,6 +5,7 @@
 - I have a strong research skill set and enjoy working with Python and Data.
 - In addition, I have a research background in sustainability, inequality, and gender.
 - My credentials include working in the USA, Europe, Asia, Africa, the Middle East, and South America.
+- For details on my education, experience, and project management experiences, see my [LinkedIn](https://www.linkedin.com/in/ivana-drabova/)
 
 ## Values
 
