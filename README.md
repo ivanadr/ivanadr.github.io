@@ -43,7 +43,7 @@ In the pre-social media era, professors often had personal websites with links t
 ### Fun Facts 
 - The colors on this website match my hair tone.
 - I completed all my computer science education before the era of ChatGPT.
-- In 2022, I hosted an art exhibition in New York that combined multiple passions: global supply chains (economist), ASCII art (computer scientist), and textual analysis (writer).
+- I exhibited my art in New York in a project that combined multiple passions: global supply chains (economist), ASCII art (computer scientist), and textual analysis (writer).
 - I wrote for my student newspaper.
 - I became the university swim team captain despite almost not making the team in my first year. I also doubled the team size. Ask me how!
 - I once organized a large mango fruit order from the market because the monopoly seller on campus offered low-quality fruit. A friend once remarked, "I can't believe you made a campaign and website just for mangoes." Actually, in the true computer science spirit, I also built a data system for orders in Python. Whatever I do, I approach it with drive and passion.
